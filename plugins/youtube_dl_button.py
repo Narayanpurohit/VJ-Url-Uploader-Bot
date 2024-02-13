@@ -67,7 +67,7 @@ async def youtube_dl_call_back(bot, update):
                 l = entity.length
                 youtube_dl_url = youtube_dl_url[o:o + l]
 
-    await update.message.edit(text=Translation.TECH_VJ_DOWNLOAD_START)
+    await update.message.edit(text=Translation.TECH_VJ_DOWNLOAD_START, , update.message, start_time)
     description = Translation.TECH_VJ_CUSTOM_CAPTION_UL_FILE
     if "fulltitle" in response_json:
         description = response_json["fulltitle"][0:1021]
