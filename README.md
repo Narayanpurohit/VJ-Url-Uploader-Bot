@@ -32,8 +32,7 @@
 
 ## Environment Variables
 
-<b><details><summary>Tap On Me For Environment Variable</summary>
-
+<b>Tap On Me For Environment Variable
 - `TECH_VJ_API_ID` : Get From [my.telegram.org](https://my.telegram.org)
 - `TECH_VJ_API_HASH` : Get From [my.telegram.org](https://my.telegram.org)
 - `TECH_VJ_BOT_TOKEN` : Get From [BotFather](https://telegram.me/BotFather)
@@ -51,7 +50,6 @@ Heroku BuildPack :-
 - `https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest`
 
 </b>
-</details>
 
 ## Credit
 
